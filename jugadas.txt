@@ -1,0 +1,905 @@
+En repartir Cartas Casa
+[('6', 'cor', 'img/rojo.png', 'img/6 cor.png'), ('4', 'rom', 'img/rojo.png', 'img/4 rom.png'), ('2', 'tre', 'img/azul.png', 'img/2 tre.png'), ('3', 'bas', 'img/rojo.png', 'img/3 bas.png'), ('6', 'cor', 'img/azul.png', 'img/6 cor.png'), ('j', 'bas', 'img/azul.png', 'img/j bas.png'), ('A', 'tre', 'img/rojo.png', 'img/A tre.png'), ('j', 'tre', 'img/rojo.png', 'img/j tre.png'), ('q', 'cor', 'img/azul.png', 'img/q cor.png')]
+En repartir Cartas Jugador
+[('j', 'cor', 'img/rojo.png', 'img/j cor.png'), ('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('6', 'bas', 'img/azul.png', 'img/6 bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('2', 'cor', 'img/azul.png', 'img/2 cor.png'), ('9', 'rom', 'img/azul.png', 'img/9 rom.png')]
+Carta mesa
+('3', 'cor', 'img/rojo.png', 'img/3 cor.png')
+Carta a robar, primera del mazo
+('5', 'cor', 'img/azul.png', 'img/5 cor.png')
+Ronda1
+ya tomo es False
+robo es False
+Jugador toma carta del mazo
+('5', 'cor', 'img/azul.png', 'img/5 cor.png')
+Cartas jug es
+[('j', 'cor', 'img/rojo.png', 'img/j cor.png'), ('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('6', 'bas', 'img/azul.png', 'img/6 bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('2', 'cor', 'img/azul.png', 'img/2 cor.png'), ('9', 'rom', 'img/azul.png', 'img/9 rom.png'), ('5', 'cor', 'img/azul.png', 'img/5 cor.png')]
+la carta que tome es ('5', 'cor', 'img/azul.png', 'img/5 cor.png')
+len es10
+robo es False
+bajo es False
+ya_tomo es True
+abtes de tirar cartas jug es
+[('j', 'cor', 'img/rojo.png', 'img/j cor.png'), ('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('6', 'bas', 'img/azul.png', 'img/6 bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('2', 'cor', 'img/azul.png', 'img/2 cor.png'), ('9', 'rom', 'img/azul.png', 'img/9 rom.png'), ('5', 'cor', 'img/azul.png', 'img/5 cor.png')]
+Jugador tira la carta
+carta_jug es 0
+Cartas jugador luego de tirar es
+[('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('6', 'bas', 'img/azul.png', 'img/6 bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('2', 'cor', 'img/azul.png', 'img/2 cor.png'), ('9', 'rom', 'img/azul.png', 'img/9 rom.png'), ('5', 'cor', 'img/azul.png', 'img/5 cor.png')]
+len cartas jug es 9
+en cambiar estado
+Cartas Casa en Jugar en 1ra ronda
+[('6', 'cor', 'img/rojo.png', 'img/6 cor.png'), ('4', 'rom', 'img/rojo.png', 'img/4 rom.png'), ('2', 'tre', 'img/azul.png', 'img/2 tre.png'), ('3', 'bas', 'img/rojo.png', 'img/3 bas.png'), ('6', 'cor', 'img/azul.png', 'img/6 cor.png'), ('j', 'bas', 'img/azul.png', 'img/j bas.png'), ('A', 'tre', 'img/rojo.png', 'img/A tre.png'), ('j', 'tre', 'img/rojo.png', 'img/j tre.png'), ('q', 'cor', 'img/azul.png', 'img/q cor.png')]
+Cartas simplificada en 1ra ronda
+[('6', 'cor', 'img/6 cor.png'), ('4', 'rom', 'img/4 rom.png'), ('2', 'tre', 'img/2 tre.png'), ('3', 'bas', 'img/3 bas.png'), ('6', 'cor', 'img/6 cor.png'), ('j', 'bas', 'img/j bas.png'), ('A', 'tre', 'img/A tre.png'), ('j', 'tre', 'img/j tre.png'), ('q', 'cor', 'img/q cor.png')]
+Desacrte cartas duplicadas en jugar en 1ra ronda
+[('6', 'cor', 'img/6 cor.png')]
+En armar juego simplificada es 
+[('4', 'rom', 'img/4 rom.png'), ('2', 'tre', 'img/2 tre.png'), ('3', 'bas', 'img/3 bas.png'), ('6', 'cor', 'img/6 cor.png'), ('j', 'bas', 'img/j bas.png'), ('A', 'tre', 'img/A tre.png'), ('j', 'tre', 'img/j tre.png'), ('q', 'cor', 'img/q cor.png')]
+******en posibles_escalesas simplificada es
+[('4', 'rom', 'img/4 rom.png'), ('2', 'tre', 'img/2 tre.png'), ('3', 'bas', 'img/3 bas.png'), ('6', 'cor', 'img/6 cor.png'), ('j', 'bas', 'img/j bas.png'), ('A', 'tre', 'img/A tre.png'), ('j', 'tre', 'img/j tre.png'), ('q', 'cor', 'img/q cor.png')]
+En armar juego escaleras  es
+[]
+En armar juego posibles_esca  es
+[[[('A', 'tre', 'img/A tre.png'), 0], [('2', 'tre', 'img/2 tre.png'), 1]]]
+en Armar Juego Cartas Faltantes para escaleras es
+[['3', 'tre', 0, 2]]
+En armar juego Posibles Tricas es
+[[('j', 'bas', 'img/j bas.png'), ('j', 'tre', 'img/j tre.png')]]
+En armar juego Tricas es
+[]
+simplificada despues de armar juego
+[('4', 'rom', 'img/4 rom.png'), ('2', 'tre', 'img/2 tre.png'), ('3', 'bas', 'img/3 bas.png'), ('6', 'cor', 'img/6 cor.png'), ('j', 'bas', 'img/j bas.png'), ('A', 'tre', 'img/A tre.png'), ('j', 'tre', 'img/j tre.png'), ('q', 'cor', 'img/q cor.png')]
+Arme descarte con estas cartas
+[('q', 'cor', 'img/q cor.png'), ('4', 'rom', 'img/4 rom.png'), ('3', 'bas', 'img/3 bas.png'), ('6', 'cor', 'img/6 cor.png')]
+Juega la casa, tomara una carta
+en sirve mesa reviso si esta carta me sirve
+('j', 'cor', 'img/rojo.png', 'img/j cor.png')
+palo es cor
+bas
+tre
+Toma de la basura
+Carta que tome de la mesa
+('j', 'cor', 'img/rojo.png', 'img/j cor.png')
+luego de tomar cartas casa es
+[('6', 'cor', 'img/rojo.png', 'img/6 cor.png'), ('4', 'rom', 'img/rojo.png', 'img/4 rom.png'), ('2', 'tre', 'img/azul.png', 'img/2 tre.png'), ('3', 'bas', 'img/rojo.png', 'img/3 bas.png'), ('6', 'cor', 'img/azul.png', 'img/6 cor.png'), ('j', 'bas', 'img/azul.png', 'img/j bas.png'), ('A', 'tre', 'img/rojo.png', 'img/A tre.png'), ('j', 'tre', 'img/rojo.png', 'img/j tre.png'), ('q', 'cor', 'img/azul.png', 'img/q cor.png'), ('j', 'cor', 'img/rojo.png', 'img/j cor.png')]
+La trica que bajo es (en else bajar_trica)
+[('j', 'bas', 'img/j bas.png'), ('j', 'tre', 'img/j tre.png'), ('j', 'cor', 'img/rojo.png', 'img/j cor.png')]
+con esta carta
+('j', 'cor', 'img/rojo.png', 'img/j cor.png')
+cartas luego de bajar la trica
+[('6', 'cor', 'img/rojo.png', 'img/6 cor.png'), ('4', 'rom', 'img/rojo.png', 'img/4 rom.png'), ('2', 'tre', 'img/azul.png', 'img/2 tre.png'), ('3', 'bas', 'img/rojo.png', 'img/3 bas.png'), ('6', 'cor', 'img/azul.png', 'img/6 cor.png'), ('A', 'tre', 'img/rojo.png', 'img/A tre.png'), ('q', 'cor', 'img/azul.png', 'img/q cor.png')]
+En armar juego simplificada es 
+[]
+******en posibles_escalesas simplificada es
+[('6', 'cor', 'img/6 cor.png'), ('4', 'rom', 'img/4 rom.png'), ('2', 'tre', 'img/2 tre.png'), ('3', 'bas', 'img/3 bas.png'), ('6', 'cor', 'img/6 cor.png'), ('A', 'tre', 'img/A tre.png'), ('q', 'cor', 'img/q cor.png')]
+En armar juego escaleras  es
+[]
+En armar juego posibles_esca  es
+[[[('A', 'tre', 'img/A tre.png'), 0], [('2', 'tre', 'img/2 tre.png'), 1]]]
+en Armar Juego Cartas Faltantes para escaleras es
+[['3', 'tre', 0, 2]]
+En armar juego Posibles Tricas es
+[[('6', 'cor', 'img/6 cor.png'), ('6', 'cor', 'img/6 cor.png')]]
+En armar juego Tricas es
+[]
+simplificada despues de armar juego
+[('6', 'cor', 'img/6 cor.png'), ('4', 'rom', 'img/4 rom.png'), ('2', 'tre', 'img/2 tre.png'), ('3', 'bas', 'img/3 bas.png'), ('6', 'cor', 'img/6 cor.png'), ('A', 'tre', 'img/A tre.png'), ('q', 'cor', 'img/q cor.png')]
+Arme descarte con estas cartas
+[('q', 'cor', 'img/q cor.png'), ('4', 'rom', 'img/4 rom.png'), ('3', 'bas', 'img/3 bas.png')]
+len descarte pri es []
+descarto esta carta de cartas_casa
+('3', 'bas', 'img/3 bas.png')
+Cartas casa es luego de descartar
+[('q', 'cor', 'img/q cor.png'), ('4', 'rom', 'img/4 rom.png')]
+Al salir de botar simplificada es 
+[('6', 'cor', 'img/6 cor.png'), ('4', 'rom', 'img/4 rom.png'), ('2', 'tre', 'img/2 tre.png'), ('3', 'bas', 'img/3 bas.png'), ('6', 'cor', 'img/6 cor.png'), ('A', 'tre', 'img/A tre.png'), ('q', 'cor', 'img/q cor.png')]
+en cambiar estado
+sali de tomar carta y tire
+Ronda2
+ya tomo es False
+robo es False
+Jugador toma carta del mazo
+('5', 'rom', 'img/rojo.png', 'img/5 rom.png')
+Cartas jug es
+[('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('6', 'bas', 'img/azul.png', 'img/6 bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('2', 'cor', 'img/azul.png', 'img/2 cor.png'), ('9', 'rom', 'img/azul.png', 'img/9 rom.png'), ('5', 'cor', 'img/azul.png', 'img/5 cor.png'), ('5', 'rom', 'img/rojo.png', 'img/5 rom.png')]
+la carta que tome es ('5', 'rom', 'img/rojo.png', 'img/5 rom.png')
+len es10
+robo es False
+bajo es False
+ya_tomo es True
+abtes de tirar cartas jug es
+[('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('6', 'bas', 'img/azul.png', 'img/6 bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('2', 'cor', 'img/azul.png', 'img/2 cor.png'), ('9', 'rom', 'img/azul.png', 'img/9 rom.png'), ('5', 'cor', 'img/azul.png', 'img/5 cor.png'), ('5', 'rom', 'img/rojo.png', 'img/5 rom.png')]
+Jugador tira la carta
+carta_jug es 6
+Cartas jugador luego de tirar es
+[('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('6', 'bas', 'img/azul.png', 'img/6 bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('9', 'rom', 'img/azul.png', 'img/9 rom.png'), ('5', 'cor', 'img/azul.png', 'img/5 cor.png'), ('5', 'rom', 'img/rojo.png', 'img/5 rom.png')]
+len cartas jug es 9
+en cambiar estado
+En armar juego simplificada es 
+[]
+******en posibles_escalesas simplificada es
+[('6', 'cor', 'img/6 cor.png'), ('4', 'rom', 'img/4 rom.png'), ('2', 'tre', 'img/2 tre.png'), ('6', 'cor', 'img/6 cor.png'), ('A', 'tre', 'img/A tre.png'), ('q', 'cor', 'img/q cor.png')]
+En armar juego escaleras  es
+[]
+En armar juego posibles_esca  es
+[[[('A', 'tre', 'img/A tre.png'), 0], [('2', 'tre', 'img/2 tre.png'), 1]]]
+en Armar Juego Cartas Faltantes para escaleras es
+[['3', 'tre', 0, 2]]
+En armar juego Posibles Tricas es
+[[('6', 'cor', 'img/6 cor.png'), ('6', 'cor', 'img/6 cor.png')]]
+En armar juego Tricas es
+[]
+simplificada despues de armar juego
+[('6', 'cor', 'img/6 cor.png'), ('4', 'rom', 'img/4 rom.png'), ('2', 'tre', 'img/2 tre.png'), ('6', 'cor', 'img/6 cor.png'), ('A', 'tre', 'img/A tre.png'), ('q', 'cor', 'img/q cor.png')]
+Arme descarte con estas cartas
+[('q', 'cor', 'img/q cor.png'), ('4', 'rom', 'img/4 rom.png')]
+Juega la casa, tomara una carta
+en sirve mesa reviso si esta carta me sirve
+('2', 'cor', 'img/azul.png', 'img/2 cor.png')
+reviso si esta en falta_esca
+[['3', 'tre', 0, 2]]
+y mis posibles escaleras son
+[[[('A', 'tre', 'img/A tre.png'), 0], [('2', 'tre', 'img/2 tre.png'), 1]]]
+y simplificada es
+Tomo una carta del mazo, no me sirvio la de la mesa
+&&&&&&&&&Tomo esta carta del mazo&&&&&&
+('10', 'cor', 'img/azul.png', 'img/10 cor.png')
+Entre a analizar juego con ('10', 'cor', 'img/azul.png', 'img/10 cor.png')
+cartas casa en analizar juego [('6', 'cor', 'img/rojo.png', 'img/6 cor.png'), ('4', 'rom', 'img/rojo.png', 'img/4 rom.png'), ('2', 'tre', 'img/azul.png', 'img/2 tre.png'), ('6', 'cor', 'img/azul.png', 'img/6 cor.png'), ('A', 'tre', 'img/rojo.png', 'img/A tre.png'), ('q', 'cor', 'img/azul.png', 'img/q cor.png'), ('10', 'cor', 'img/azul.png', 'img/10 cor.png')]
+en analizar juego, no baje con la carta, veo si me sirve
+************Veo si me sirve esta carta*******
+('10', 'cor', 'img/azul.png', 'img/10 cor.png')
+en sirve mesa reviso si esta carta me sirve
+('10', 'cor', 'img/azul.png', 'img/10 cor.png')
+reviso si esta en falta_esca
+[['3', 'tre', 0, 2]]
+y mis posibles escaleras son
+[[[('A', 'tre', 'img/A tre.png'), 0], [('2', 'tre', 'img/2 tre.png'), 1]]]
+y simplificada es
+la carta que robe no me sirve para bajar
+antes de revisar tengo esto
+posibles escaleras [[[('A', 'tre', 'img/A tre.png'), 0], [('2', 'tre', 'img/2 tre.png'), 1]]]
+posibles tricas [[('6', 'cor', 'img/6 cor.png'), ('6', 'cor', 'img/6 cor.png')]]
+descarte [('q', 'cor', 'img/q cor.png'), ('4', 'rom', 'img/4 rom.png')]
+par esca con [('q', 'cor', 'img/q cor.png'), ('4', 'rom', 'img/4 rom.png')]
+Entre a par esca con ('10', 'cor', 'img/azul.png', 'img/10 cor.png')
+descarte en par esca es 
+[('q', 'cor', 'img/q cor.png'), ('4', 'rom', 'img/4 rom.png')]
+en par esca decuelvo True
+len descarte pri es []
+descarto esta carta de cartas_casa
+('4', 'rom', 'img/4 rom.png')
+Cartas casa es luego de descartar
+[]
+Al salir de botar simplificada es 
+[('6', 'cor', 'img/6 cor.png'), ('4', 'rom', 'img/4 rom.png'), ('2', 'tre', 'img/2 tre.png'), ('6', 'cor', 'img/6 cor.png'), ('A', 'tre', 'img/A tre.png'), ('q', 'cor', 'img/q cor.png')]
+en cambiar estado
+sali de tomar carta y tire
+Ronda3
+ya tomo es False
+robo es False
+Jugador toma carta del mazo
+('7', 'cor', 'img/azul.png', 'img/7 cor.png')
+Cartas jug es
+[('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('6', 'bas', 'img/azul.png', 'img/6 bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('9', 'rom', 'img/azul.png', 'img/9 rom.png'), ('5', 'cor', 'img/azul.png', 'img/5 cor.png'), ('5', 'rom', 'img/rojo.png', 'img/5 rom.png'), ('7', 'cor', 'img/azul.png', 'img/7 cor.png')]
+la carta que tome es ('7', 'cor', 'img/azul.png', 'img/7 cor.png')
+len es10
+robo es False
+bajo es False
+ya_tomo es True
+abtes de tirar cartas jug es
+[('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('6', 'bas', 'img/azul.png', 'img/6 bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('9', 'rom', 'img/azul.png', 'img/9 rom.png'), ('5', 'cor', 'img/azul.png', 'img/5 cor.png'), ('5', 'rom', 'img/rojo.png', 'img/5 rom.png'), ('7', 'cor', 'img/azul.png', 'img/7 cor.png')]
+Jugador tira la carta
+carta_jug es 1
+Cartas jugador luego de tirar es
+[('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('9', 'rom', 'img/azul.png', 'img/9 rom.png'), ('5', 'cor', 'img/azul.png', 'img/5 cor.png'), ('5', 'rom', 'img/rojo.png', 'img/5 rom.png'), ('7', 'cor', 'img/azul.png', 'img/7 cor.png')]
+len cartas jug es 9
+en cambiar estado
+En armar juego simplificada es 
+[]
+******en posibles_escalesas simplificada es
+[('6', 'cor', 'img/6 cor.png'), ('2', 'tre', 'img/2 tre.png'), ('6', 'cor', 'img/6 cor.png'), ('A', 'tre', 'img/A tre.png'), ('q', 'cor', 'img/q cor.png'), ('10', 'cor', 'img/10 cor.png')]
+En armar juego escaleras  es
+[]
+En armar juego posibles_esca  es
+[[[('10', 'cor', 'img/10 cor.png'), 9], [('q', 'cor', 'img/q cor.png'), 11]], [[('A', 'tre', 'img/A tre.png'), 0], [('2', 'tre', 'img/2 tre.png'), 1]]]
+en es corrida lista es
+[[('10', 'cor', 'img/10 cor.png'), 9], [('q', 'cor', 'img/q cor.png'), 11]]
+en Armar Juego Cartas Faltantes para escaleras es
+[['j', 'cor', 0, 10], ['3', 'tre', 1, 2]]
+En armar juego Posibles Tricas es
+[[('6', 'cor', 'img/6 cor.png'), ('6', 'cor', 'img/6 cor.png')]]
+En armar juego Tricas es
+[]
+simplificada despues de armar juego
+[('6', 'cor', 'img/6 cor.png'), ('2', 'tre', 'img/2 tre.png'), ('6', 'cor', 'img/6 cor.png'), ('A', 'tre', 'img/A tre.png'), ('q', 'cor', 'img/q cor.png'), ('10', 'cor', 'img/10 cor.png')]
+Arme descarte con estas cartas
+[]
+Juega la casa, tomara una carta
+en sirve mesa reviso si esta carta me sirve
+('6', 'bas', 'img/azul.png', 'img/6 bas.png')
+palo es bas
+cor
+cor
+Toma de la basura
+Carta que tome de la mesa
+('6', 'bas', 'img/azul.png', 'img/6 bas.png')
+luego de tomar cartas casa es
+[('6', 'cor', 'img/rojo.png', 'img/6 cor.png'), ('2', 'tre', 'img/azul.png', 'img/2 tre.png'), ('6', 'cor', 'img/azul.png', 'img/6 cor.png'), ('A', 'tre', 'img/rojo.png', 'img/A tre.png'), ('q', 'cor', 'img/azul.png', 'img/q cor.png'), ('10', 'cor', 'img/azul.png', 'img/10 cor.png'), ('6', 'bas', 'img/azul.png', 'img/6 bas.png')]
+La trica que bajo es (en else bajar_trica)
+[('6', 'cor', 'img/6 cor.png'), ('6', 'cor', 'img/6 cor.png'), ('6', 'bas', 'img/azul.png', 'img/6 bas.png')]
+con esta carta
+('6', 'bas', 'img/azul.png', 'img/6 bas.png')
+cartas luego de bajar la trica
+[('2', 'tre', 'img/azul.png', 'img/2 tre.png'), ('A', 'tre', 'img/rojo.png', 'img/A tre.png'), ('q', 'cor', 'img/azul.png', 'img/q cor.png'), ('10', 'cor', 'img/azul.png', 'img/10 cor.png')]
+En armar juego simplificada es 
+[]
+******en posibles_escalesas simplificada es
+[('2', 'tre', 'img/2 tre.png'), ('A', 'tre', 'img/A tre.png'), ('q', 'cor', 'img/q cor.png'), ('10', 'cor', 'img/10 cor.png')]
+En armar juego escaleras  es
+[]
+En armar juego posibles_esca  es
+[[[('10', 'cor', 'img/10 cor.png'), 9], [('q', 'cor', 'img/q cor.png'), 11]], [[('A', 'tre', 'img/A tre.png'), 0], [('2', 'tre', 'img/2 tre.png'), 1]]]
+en es corrida lista es
+[[('10', 'cor', 'img/10 cor.png'), 9], [('q', 'cor', 'img/q cor.png'), 11]]
+en Armar Juego Cartas Faltantes para escaleras es
+[['j', 'cor', 0, 10], ['3', 'tre', 1, 2]]
+En armar juego Posibles Tricas es
+[]
+En armar juego Tricas es
+[]
+simplificada despues de armar juego
+[('2', 'tre', 'img/2 tre.png'), ('A', 'tre', 'img/A tre.png'), ('q', 'cor', 'img/q cor.png'), ('10', 'cor', 'img/10 cor.png')]
+Arme descarte con estas cartas
+[]
+len descarte pri es []
+Arme descarte con estas cartas
+[]
+Descarto la carta que acabo de tomar
+('2', 'tre', 'img/azul.png', 'img/2 tre.png')
+Cartas casa es
+[('A', 'tre', 'img/rojo.png', 'img/A tre.png'), ('q', 'cor', 'img/azul.png', 'img/q cor.png'), ('10', 'cor', 'img/azul.png', 'img/10 cor.png')]
+Al salir de botar simplificada es 
+[('2', 'tre', 'img/2 tre.png'), ('A', 'tre', 'img/A tre.png'), ('q', 'cor', 'img/q cor.png'), ('10', 'cor', 'img/10 cor.png')]
+en cambiar estado
+sali de tomar carta y tire
+Ronda4
+ya tomo es False
+robo es False
+Jugador toma carta del mazo
+('2', 'rom', 'img/azul.png', 'img/2 rom.png')
+Cartas jug es
+[('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('9', 'rom', 'img/azul.png', 'img/9 rom.png'), ('5', 'cor', 'img/azul.png', 'img/5 cor.png'), ('5', 'rom', 'img/rojo.png', 'img/5 rom.png'), ('7', 'cor', 'img/azul.png', 'img/7 cor.png'), ('2', 'rom', 'img/azul.png', 'img/2 rom.png')]
+la carta que tome es ('2', 'rom', 'img/azul.png', 'img/2 rom.png')
+len es10
+robo es False
+bajo es False
+ya_tomo es True
+abtes de tirar cartas jug es
+[('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('9', 'rom', 'img/azul.png', 'img/9 rom.png'), ('5', 'cor', 'img/azul.png', 'img/5 cor.png'), ('5', 'rom', 'img/rojo.png', 'img/5 rom.png'), ('7', 'cor', 'img/azul.png', 'img/7 cor.png'), ('2', 'rom', 'img/azul.png', 'img/2 rom.png')]
+Jugador tira la carta
+carta_jug es 9
+Cartas jugador luego de tirar es
+[('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('9', 'rom', 'img/azul.png', 'img/9 rom.png'), ('5', 'cor', 'img/azul.png', 'img/5 cor.png'), ('5', 'rom', 'img/rojo.png', 'img/5 rom.png'), ('7', 'cor', 'img/azul.png', 'img/7 cor.png')]
+len cartas jug es 9
+en cambiar estado
+En armar juego simplificada es 
+[]
+******en posibles_escalesas simplificada es
+[('A', 'tre', 'img/A tre.png'), ('q', 'cor', 'img/q cor.png'), ('10', 'cor', 'img/10 cor.png')]
+En armar juego escaleras  es
+[]
+En armar juego posibles_esca  es
+[[[('10', 'cor', 'img/10 cor.png'), 9], [('q', 'cor', 'img/q cor.png'), 11]]]
+en es corrida lista es
+[[('10', 'cor', 'img/10 cor.png'), 9], [('q', 'cor', 'img/q cor.png'), 11]]
+en Armar Juego Cartas Faltantes para escaleras es
+[['j', 'cor', 0, 10]]
+En armar juego Posibles Tricas es
+[]
+En armar juego Tricas es
+[]
+simplificada despues de armar juego
+[('A', 'tre', 'img/A tre.png'), ('q', 'cor', 'img/q cor.png'), ('10', 'cor', 'img/10 cor.png')]
+Arme descarte con estas cartas
+[('A', 'tre', 'img/A tre.png')]
+Juega la casa, tomara una carta
+en sirve mesa reviso si esta carta me sirve
+('2', 'rom', 'img/azul.png', 'img/2 rom.png')
+reviso si esta en falta_esca
+[['j', 'cor', 0, 10]]
+y mis posibles escaleras son
+[[[('10', 'cor', 'img/10 cor.png'), 9], [('q', 'cor', 'img/q cor.png'), 11]]]
+y simplificada es
+Tomo una carta del mazo, no me sirvio la de la mesa
+&&&&&&&&&Tomo esta carta del mazo&&&&&&
+('A', 'cor', 'img/rojo.png', 'img/A cor.png')
+Entre a analizar juego con ('A', 'cor', 'img/rojo.png', 'img/A cor.png')
+cartas casa en analizar juego [('A', 'tre', 'img/rojo.png', 'img/A tre.png'), ('q', 'cor', 'img/azul.png', 'img/q cor.png'), ('10', 'cor', 'img/azul.png', 'img/10 cor.png'), ('A', 'cor', 'img/rojo.png', 'img/A cor.png')]
+en analizar juego, no baje con la carta, veo si me sirve
+************Veo si me sirve esta carta*******
+('A', 'cor', 'img/rojo.png', 'img/A cor.png')
+en sirve mesa reviso si esta carta me sirve
+('A', 'cor', 'img/rojo.png', 'img/A cor.png')
+reviso si esta en falta_esca
+[['j', 'cor', 0, 10]]
+y mis posibles escaleras son
+[[[('10', 'cor', 'img/10 cor.png'), 9], [('q', 'cor', 'img/q cor.png'), 11]]]
+y simplificada es
+la carta que robe no me sirve para bajar
+antes de revisar tengo esto
+posibles escaleras [[[('10', 'cor', 'img/10 cor.png'), 9], [('q', 'cor', 'img/q cor.png'), 11]]]
+posibles tricas []
+descarte [('A', 'tre', 'img/A tre.png')]
+par esca con [('A', 'tre', 'img/A tre.png')]
+Entre a par esca con ('A', 'cor', 'img/rojo.png', 'img/A cor.png')
+descarte en par esca es 
+[('A', 'tre', 'img/A tre.png')]
+en par esca decuelvo False
+Entre a par trica con ('A', 'cor', 'img/rojo.png', 'img/A cor.png')
+descarte en par trica es 
+[('A', 'tre', 'img/A tre.png')]
+en par trica devuelvo true
+[('A', 'tre', 'img/A tre.png'), ('A', 'cor', 'img/A cor.png')]
+len descarte pri es []
+Arme descarte con estas cartas
+[]
+Descarto la carta que acabo de tomar
+('A', 'tre', 'img/rojo.png', 'img/A tre.png')
+Cartas casa es
+[('q', 'cor', 'img/azul.png', 'img/q cor.png'), ('10', 'cor', 'img/azul.png', 'img/10 cor.png'), ('A', 'cor', 'img/rojo.png', 'img/A cor.png')]
+Al salir de botar simplificada es 
+[('A', 'tre', 'img/A tre.png'), ('q', 'cor', 'img/q cor.png'), ('10', 'cor', 'img/10 cor.png')]
+en cambiar estado
+sali de tomar carta y tire
+Ronda5
+ya tomo es False
+robo es False
+Jugador toma carta del mazo
+('6', 'bas', 'img/rojo.png', 'img/6 bas.png')
+Cartas jug es
+[('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('9', 'rom', 'img/azul.png', 'img/9 rom.png'), ('5', 'cor', 'img/azul.png', 'img/5 cor.png'), ('5', 'rom', 'img/rojo.png', 'img/5 rom.png'), ('7', 'cor', 'img/azul.png', 'img/7 cor.png'), ('6', 'bas', 'img/rojo.png', 'img/6 bas.png')]
+la carta que tome es ('6', 'bas', 'img/rojo.png', 'img/6 bas.png')
+len es10
+robo es False
+bajo es False
+ya_tomo es True
+abtes de tirar cartas jug es
+[('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('9', 'rom', 'img/azul.png', 'img/9 rom.png'), ('5', 'cor', 'img/azul.png', 'img/5 cor.png'), ('5', 'rom', 'img/rojo.png', 'img/5 rom.png'), ('7', 'cor', 'img/azul.png', 'img/7 cor.png'), ('6', 'bas', 'img/rojo.png', 'img/6 bas.png')]
+Jugador tira la carta
+carta_jug es 9
+Cartas jugador luego de tirar es
+[('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('9', 'rom', 'img/azul.png', 'img/9 rom.png'), ('5', 'cor', 'img/azul.png', 'img/5 cor.png'), ('5', 'rom', 'img/rojo.png', 'img/5 rom.png'), ('7', 'cor', 'img/azul.png', 'img/7 cor.png')]
+len cartas jug es 9
+en cambiar estado
+En armar juego simplificada es 
+[]
+******en posibles_escalesas simplificada es
+[('q', 'cor', 'img/q cor.png'), ('10', 'cor', 'img/10 cor.png'), ('A', 'cor', 'img/A cor.png')]
+En armar juego escaleras  es
+[]
+En armar juego posibles_esca  es
+[[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]]
+en es corrida lista es
+[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]
+en Armar Juego Cartas Faltantes para escaleras es
+[['k', 'cor', 0, 12]]
+En armar juego Posibles Tricas es
+[]
+En armar juego Tricas es
+[]
+simplificada despues de armar juego
+[('q', 'cor', 'img/q cor.png'), ('10', 'cor', 'img/10 cor.png'), ('A', 'cor', 'img/A cor.png')]
+Arme descarte con estas cartas
+[('10', 'cor', 'img/10 cor.png')]
+Juega la casa, tomara una carta
+en sirve mesa reviso si esta carta me sirve
+('6', 'bas', 'img/rojo.png', 'img/6 bas.png')
+reviso si esta en falta_esca
+[['k', 'cor', 0, 12]]
+y mis posibles escaleras son
+[[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]]
+y simplificada es
+Tomo una carta del mazo, no me sirvio la de la mesa
+&&&&&&&&&Tomo esta carta del mazo&&&&&&
+('4', 'bas', 'img/azul.png', 'img/4 bas.png')
+Entre a analizar juego con ('4', 'bas', 'img/azul.png', 'img/4 bas.png')
+cartas casa en analizar juego [('q', 'cor', 'img/azul.png', 'img/q cor.png'), ('10', 'cor', 'img/azul.png', 'img/10 cor.png'), ('A', 'cor', 'img/rojo.png', 'img/A cor.png'), ('4', 'bas', 'img/azul.png', 'img/4 bas.png')]
+en analizar juego, no baje con la carta, veo si me sirve
+************Veo si me sirve esta carta*******
+('4', 'bas', 'img/azul.png', 'img/4 bas.png')
+en sirve mesa reviso si esta carta me sirve
+('4', 'bas', 'img/azul.png', 'img/4 bas.png')
+reviso si esta en falta_esca
+[['k', 'cor', 0, 12]]
+y mis posibles escaleras son
+[[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]]
+y simplificada es
+la carta que robe no me sirve para bajar
+antes de revisar tengo esto
+posibles escaleras [[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]]
+posibles tricas []
+descarte [('10', 'cor', 'img/10 cor.png')]
+par esca con [('10', 'cor', 'img/10 cor.png')]
+Entre a par esca con ('4', 'bas', 'img/azul.png', 'img/4 bas.png')
+descarte en par esca es 
+[('10', 'cor', 'img/10 cor.png')]
+en par esca decuelvo False
+Entre a par trica con ('4', 'bas', 'img/azul.png', 'img/4 bas.png')
+descarte en par trica es 
+[('10', 'cor', 'img/10 cor.png')]
+en par trica devuelvo false
+par esca con set()
+Entre a par esca con ('4', 'bas', 'img/azul.png', 'img/4 bas.png')
+descarte en par esca es 
+[('10', 'cor', 'img/10 cor.png')]
+Descarto la carta que acabo de tomar
+('4', 'bas', 'img/azul.png', 'img/4 bas.png')
+Cartas casa es
+[('q', 'cor', 'img/azul.png', 'img/q cor.png'), ('10', 'cor', 'img/azul.png', 'img/10 cor.png'), ('A', 'cor', 'img/rojo.png', 'img/A cor.png')]
+Al salir de botar simplificada es 
+[('q', 'cor', 'img/q cor.png'), ('10', 'cor', 'img/10 cor.png'), ('A', 'cor', 'img/A cor.png')]
+en cambiar estado
+sali de tomar carta y tire
+Ronda6
+ya tomo es False
+robo es False
+Jugador toma carta del mazo
+('2', 'cor', 'img/rojo.png', 'img/2 cor.png')
+Cartas jug es
+[('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('9', 'rom', 'img/azul.png', 'img/9 rom.png'), ('5', 'cor', 'img/azul.png', 'img/5 cor.png'), ('5', 'rom', 'img/rojo.png', 'img/5 rom.png'), ('7', 'cor', 'img/azul.png', 'img/7 cor.png'), ('2', 'cor', 'img/rojo.png', 'img/2 cor.png')]
+la carta que tome es ('2', 'cor', 'img/rojo.png', 'img/2 cor.png')
+len es10
+robo es False
+bajo es False
+ya_tomo es True
+abtes de tirar cartas jug es
+[('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('9', 'rom', 'img/azul.png', 'img/9 rom.png'), ('5', 'cor', 'img/azul.png', 'img/5 cor.png'), ('5', 'rom', 'img/rojo.png', 'img/5 rom.png'), ('7', 'cor', 'img/azul.png', 'img/7 cor.png'), ('2', 'cor', 'img/rojo.png', 'img/2 cor.png')]
+Jugador tira la carta
+carta_jug es 9
+Cartas jugador luego de tirar es
+[('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('9', 'rom', 'img/azul.png', 'img/9 rom.png'), ('5', 'cor', 'img/azul.png', 'img/5 cor.png'), ('5', 'rom', 'img/rojo.png', 'img/5 rom.png'), ('7', 'cor', 'img/azul.png', 'img/7 cor.png')]
+len cartas jug es 9
+en cambiar estado
+En armar juego simplificada es 
+[]
+******en posibles_escalesas simplificada es
+[('q', 'cor', 'img/q cor.png'), ('10', 'cor', 'img/10 cor.png'), ('A', 'cor', 'img/A cor.png')]
+En armar juego escaleras  es
+[]
+En armar juego posibles_esca  es
+[[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]]
+en es corrida lista es
+[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]
+en Armar Juego Cartas Faltantes para escaleras es
+[['k', 'cor', 0, 12]]
+En armar juego Posibles Tricas es
+[]
+En armar juego Tricas es
+[]
+simplificada despues de armar juego
+[('q', 'cor', 'img/q cor.png'), ('10', 'cor', 'img/10 cor.png'), ('A', 'cor', 'img/A cor.png')]
+Arme descarte con estas cartas
+[('10', 'cor', 'img/10 cor.png')]
+Juega la casa, tomara una carta
+en sirve mesa reviso si esta carta me sirve
+('2', 'cor', 'img/rojo.png', 'img/2 cor.png')
+reviso si esta en falta_esca
+[['k', 'cor', 0, 12]]
+y mis posibles escaleras son
+[[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]]
+y simplificada es
+Tomo una carta del mazo, no me sirvio la de la mesa
+&&&&&&&&&Tomo esta carta del mazo&&&&&&
+('4', 'tre', 'img/azul.png', 'img/4 tre.png')
+Entre a analizar juego con ('4', 'tre', 'img/azul.png', 'img/4 tre.png')
+cartas casa en analizar juego [('q', 'cor', 'img/azul.png', 'img/q cor.png'), ('10', 'cor', 'img/azul.png', 'img/10 cor.png'), ('A', 'cor', 'img/rojo.png', 'img/A cor.png'), ('4', 'tre', 'img/azul.png', 'img/4 tre.png')]
+en analizar juego, no baje con la carta, veo si me sirve
+************Veo si me sirve esta carta*******
+('4', 'tre', 'img/azul.png', 'img/4 tre.png')
+en sirve mesa reviso si esta carta me sirve
+('4', 'tre', 'img/azul.png', 'img/4 tre.png')
+reviso si esta en falta_esca
+[['k', 'cor', 0, 12]]
+y mis posibles escaleras son
+[[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]]
+y simplificada es
+la carta que robe no me sirve para bajar
+antes de revisar tengo esto
+posibles escaleras [[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]]
+posibles tricas []
+descarte [('10', 'cor', 'img/10 cor.png')]
+par esca con [('10', 'cor', 'img/10 cor.png')]
+Entre a par esca con ('4', 'tre', 'img/azul.png', 'img/4 tre.png')
+descarte en par esca es 
+[('10', 'cor', 'img/10 cor.png')]
+en par esca decuelvo False
+Entre a par trica con ('4', 'tre', 'img/azul.png', 'img/4 tre.png')
+descarte en par trica es 
+[('10', 'cor', 'img/10 cor.png')]
+en par trica devuelvo false
+par esca con set()
+Entre a par esca con ('4', 'tre', 'img/azul.png', 'img/4 tre.png')
+descarte en par esca es 
+[('10', 'cor', 'img/10 cor.png')]
+Descarto la carta que acabo de tomar
+('4', 'tre', 'img/azul.png', 'img/4 tre.png')
+Cartas casa es
+[('q', 'cor', 'img/azul.png', 'img/q cor.png'), ('10', 'cor', 'img/azul.png', 'img/10 cor.png'), ('A', 'cor', 'img/rojo.png', 'img/A cor.png')]
+Al salir de botar simplificada es 
+[('q', 'cor', 'img/q cor.png'), ('10', 'cor', 'img/10 cor.png'), ('A', 'cor', 'img/A cor.png')]
+en cambiar estado
+sali de tomar carta y tire
+Ronda7
+ya tomo es False
+robo es False
+Jugador toma carta del mazo
+('6', 'rom', 'img/rojo.png', 'img/6 rom.png')
+Cartas jug es
+[('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('9', 'rom', 'img/azul.png', 'img/9 rom.png'), ('5', 'cor', 'img/azul.png', 'img/5 cor.png'), ('5', 'rom', 'img/rojo.png', 'img/5 rom.png'), ('7', 'cor', 'img/azul.png', 'img/7 cor.png'), ('6', 'rom', 'img/rojo.png', 'img/6 rom.png')]
+la carta que tome es ('6', 'rom', 'img/rojo.png', 'img/6 rom.png')
+len es10
+robo es False
+bajo es False
+ya_tomo es True
+abtes de tirar cartas jug es
+[('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('9', 'rom', 'img/azul.png', 'img/9 rom.png'), ('5', 'cor', 'img/azul.png', 'img/5 cor.png'), ('5', 'rom', 'img/rojo.png', 'img/5 rom.png'), ('7', 'cor', 'img/azul.png', 'img/7 cor.png'), ('6', 'rom', 'img/rojo.png', 'img/6 rom.png')]
+Jugador tira la carta
+carta_jug es 5
+Cartas jugador luego de tirar es
+[('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('5', 'cor', 'img/azul.png', 'img/5 cor.png'), ('5', 'rom', 'img/rojo.png', 'img/5 rom.png'), ('7', 'cor', 'img/azul.png', 'img/7 cor.png'), ('6', 'rom', 'img/rojo.png', 'img/6 rom.png')]
+len cartas jug es 9
+en cambiar estado
+En armar juego simplificada es 
+[]
+******en posibles_escalesas simplificada es
+[('q', 'cor', 'img/q cor.png'), ('10', 'cor', 'img/10 cor.png'), ('A', 'cor', 'img/A cor.png')]
+En armar juego escaleras  es
+[]
+En armar juego posibles_esca  es
+[[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]]
+en es corrida lista es
+[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]
+en Armar Juego Cartas Faltantes para escaleras es
+[['k', 'cor', 0, 12]]
+En armar juego Posibles Tricas es
+[]
+En armar juego Tricas es
+[]
+simplificada despues de armar juego
+[('q', 'cor', 'img/q cor.png'), ('10', 'cor', 'img/10 cor.png'), ('A', 'cor', 'img/A cor.png')]
+Arme descarte con estas cartas
+[('10', 'cor', 'img/10 cor.png')]
+Juega la casa, tomara una carta
+en sirve mesa reviso si esta carta me sirve
+('9', 'rom', 'img/azul.png', 'img/9 rom.png')
+reviso si esta en falta_esca
+[['k', 'cor', 0, 12]]
+y mis posibles escaleras son
+[[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]]
+y simplificada es
+Tomo una carta del mazo, no me sirvio la de la mesa
+&&&&&&&&&Tomo esta carta del mazo&&&&&&
+('2', 'bas', 'img/azul.png', 'img/2 bas.png')
+Entre a analizar juego con ('2', 'bas', 'img/azul.png', 'img/2 bas.png')
+cartas casa en analizar juego [('q', 'cor', 'img/azul.png', 'img/q cor.png'), ('10', 'cor', 'img/azul.png', 'img/10 cor.png'), ('A', 'cor', 'img/rojo.png', 'img/A cor.png'), ('2', 'bas', 'img/azul.png', 'img/2 bas.png')]
+en analizar juego, no baje con la carta, veo si me sirve
+************Veo si me sirve esta carta*******
+('2', 'bas', 'img/azul.png', 'img/2 bas.png')
+en sirve mesa reviso si esta carta me sirve
+('2', 'bas', 'img/azul.png', 'img/2 bas.png')
+reviso si esta en falta_esca
+[['k', 'cor', 0, 12]]
+y mis posibles escaleras son
+[[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]]
+y simplificada es
+la carta que robe no me sirve para bajar
+antes de revisar tengo esto
+posibles escaleras [[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]]
+posibles tricas []
+descarte [('10', 'cor', 'img/10 cor.png')]
+par esca con [('10', 'cor', 'img/10 cor.png')]
+Entre a par esca con ('2', 'bas', 'img/azul.png', 'img/2 bas.png')
+descarte en par esca es 
+[('10', 'cor', 'img/10 cor.png')]
+en par esca decuelvo False
+Entre a par trica con ('2', 'bas', 'img/azul.png', 'img/2 bas.png')
+descarte en par trica es 
+[('10', 'cor', 'img/10 cor.png')]
+en par trica devuelvo false
+par esca con set()
+Entre a par esca con ('2', 'bas', 'img/azul.png', 'img/2 bas.png')
+descarte en par esca es 
+[('10', 'cor', 'img/10 cor.png')]
+Descarto la carta que acabo de tomar
+('2', 'bas', 'img/azul.png', 'img/2 bas.png')
+Cartas casa es
+[('q', 'cor', 'img/azul.png', 'img/q cor.png'), ('10', 'cor', 'img/azul.png', 'img/10 cor.png'), ('A', 'cor', 'img/rojo.png', 'img/A cor.png')]
+Al salir de botar simplificada es 
+[('q', 'cor', 'img/q cor.png'), ('10', 'cor', 'img/10 cor.png'), ('A', 'cor', 'img/A cor.png')]
+en cambiar estado
+sali de tomar carta y tire
+Ronda8
+ya tomo es False
+robo es False
+Jugador toma carta del mazo
+('3', 'tre', 'img/rojo.png', 'img/3 tre.png')
+Cartas jug es
+[('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('5', 'cor', 'img/azul.png', 'img/5 cor.png'), ('5', 'rom', 'img/rojo.png', 'img/5 rom.png'), ('7', 'cor', 'img/azul.png', 'img/7 cor.png'), ('6', 'rom', 'img/rojo.png', 'img/6 rom.png'), ('3', 'tre', 'img/rojo.png', 'img/3 tre.png')]
+la carta que tome es ('3', 'tre', 'img/rojo.png', 'img/3 tre.png')
+len es10
+robo es False
+bajo es False
+ya_tomo es True
+abtes de tirar cartas jug es
+[('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('5', 'cor', 'img/azul.png', 'img/5 cor.png'), ('5', 'rom', 'img/rojo.png', 'img/5 rom.png'), ('7', 'cor', 'img/azul.png', 'img/7 cor.png'), ('6', 'rom', 'img/rojo.png', 'img/6 rom.png'), ('3', 'tre', 'img/rojo.png', 'img/3 tre.png')]
+Jugador tira la carta
+carta_jug es 9
+Cartas jugador luego de tirar es
+[('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('5', 'cor', 'img/azul.png', 'img/5 cor.png'), ('5', 'rom', 'img/rojo.png', 'img/5 rom.png'), ('7', 'cor', 'img/azul.png', 'img/7 cor.png'), ('6', 'rom', 'img/rojo.png', 'img/6 rom.png')]
+len cartas jug es 9
+en cambiar estado
+En armar juego simplificada es 
+[]
+******en posibles_escalesas simplificada es
+[('q', 'cor', 'img/q cor.png'), ('10', 'cor', 'img/10 cor.png'), ('A', 'cor', 'img/A cor.png')]
+En armar juego escaleras  es
+[]
+En armar juego posibles_esca  es
+[[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]]
+en es corrida lista es
+[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]
+en Armar Juego Cartas Faltantes para escaleras es
+[['k', 'cor', 0, 12]]
+En armar juego Posibles Tricas es
+[]
+En armar juego Tricas es
+[]
+simplificada despues de armar juego
+[('q', 'cor', 'img/q cor.png'), ('10', 'cor', 'img/10 cor.png'), ('A', 'cor', 'img/A cor.png')]
+Arme descarte con estas cartas
+[('10', 'cor', 'img/10 cor.png')]
+Juega la casa, tomara una carta
+en sirve mesa reviso si esta carta me sirve
+('3', 'tre', 'img/rojo.png', 'img/3 tre.png')
+reviso si esta en falta_esca
+[['k', 'cor', 0, 12]]
+y mis posibles escaleras son
+[[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]]
+y simplificada es
+Tomo una carta del mazo, no me sirvio la de la mesa
+&&&&&&&&&Tomo esta carta del mazo&&&&&&
+('7', 'rom', 'img/azul.png', 'img/7 rom.png')
+Entre a analizar juego con ('7', 'rom', 'img/azul.png', 'img/7 rom.png')
+cartas casa en analizar juego [('q', 'cor', 'img/azul.png', 'img/q cor.png'), ('10', 'cor', 'img/azul.png', 'img/10 cor.png'), ('A', 'cor', 'img/rojo.png', 'img/A cor.png'), ('7', 'rom', 'img/azul.png', 'img/7 rom.png')]
+en analizar juego, no baje con la carta, veo si me sirve
+************Veo si me sirve esta carta*******
+('7', 'rom', 'img/azul.png', 'img/7 rom.png')
+en sirve mesa reviso si esta carta me sirve
+('7', 'rom', 'img/azul.png', 'img/7 rom.png')
+reviso si esta en falta_esca
+[['k', 'cor', 0, 12]]
+y mis posibles escaleras son
+[[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]]
+y simplificada es
+la carta que robe no me sirve para bajar
+antes de revisar tengo esto
+posibles escaleras [[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]]
+posibles tricas []
+descarte [('10', 'cor', 'img/10 cor.png')]
+par esca con [('10', 'cor', 'img/10 cor.png')]
+Entre a par esca con ('7', 'rom', 'img/azul.png', 'img/7 rom.png')
+descarte en par esca es 
+[('10', 'cor', 'img/10 cor.png')]
+en par esca decuelvo False
+Entre a par trica con ('7', 'rom', 'img/azul.png', 'img/7 rom.png')
+descarte en par trica es 
+[('10', 'cor', 'img/10 cor.png')]
+en par trica devuelvo false
+par esca con set()
+Entre a par esca con ('7', 'rom', 'img/azul.png', 'img/7 rom.png')
+descarte en par esca es 
+[('10', 'cor', 'img/10 cor.png')]
+Descarto la carta que acabo de tomar
+('7', 'rom', 'img/azul.png', 'img/7 rom.png')
+Cartas casa es
+[('q', 'cor', 'img/azul.png', 'img/q cor.png'), ('10', 'cor', 'img/azul.png', 'img/10 cor.png'), ('A', 'cor', 'img/rojo.png', 'img/A cor.png')]
+Al salir de botar simplificada es 
+[('q', 'cor', 'img/q cor.png'), ('10', 'cor', 'img/10 cor.png'), ('A', 'cor', 'img/A cor.png')]
+en cambiar estado
+sali de tomar carta y tire
+Ronda9
+ya tomo es False
+robo es False
+Jugador toma carta del mazo
+('A', 'rom', 'img/azul.png', 'img/A rom.png')
+Cartas jug es
+[('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('5', 'cor', 'img/azul.png', 'img/5 cor.png'), ('5', 'rom', 'img/rojo.png', 'img/5 rom.png'), ('7', 'cor', 'img/azul.png', 'img/7 cor.png'), ('6', 'rom', 'img/rojo.png', 'img/6 rom.png'), ('A', 'rom', 'img/azul.png', 'img/A rom.png')]
+la carta que tome es ('A', 'rom', 'img/azul.png', 'img/A rom.png')
+len es10
+robo es False
+bajo es False
+ya_tomo es True
+abtes de tirar cartas jug es
+[('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('5', 'cor', 'img/azul.png', 'img/5 cor.png'), ('5', 'rom', 'img/rojo.png', 'img/5 rom.png'), ('7', 'cor', 'img/azul.png', 'img/7 cor.png'), ('6', 'rom', 'img/rojo.png', 'img/6 rom.png'), ('A', 'rom', 'img/azul.png', 'img/A rom.png')]
+Jugador tira la carta
+carta_jug es 9
+Cartas jugador luego de tirar es
+[('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('5', 'cor', 'img/azul.png', 'img/5 cor.png'), ('5', 'rom', 'img/rojo.png', 'img/5 rom.png'), ('7', 'cor', 'img/azul.png', 'img/7 cor.png'), ('6', 'rom', 'img/rojo.png', 'img/6 rom.png')]
+len cartas jug es 9
+en cambiar estado
+En armar juego simplificada es 
+[]
+******en posibles_escalesas simplificada es
+[('q', 'cor', 'img/q cor.png'), ('10', 'cor', 'img/10 cor.png'), ('A', 'cor', 'img/A cor.png')]
+En armar juego escaleras  es
+[]
+En armar juego posibles_esca  es
+[[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]]
+en es corrida lista es
+[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]
+en Armar Juego Cartas Faltantes para escaleras es
+[['k', 'cor', 0, 12]]
+En armar juego Posibles Tricas es
+[]
+En armar juego Tricas es
+[]
+simplificada despues de armar juego
+[('q', 'cor', 'img/q cor.png'), ('10', 'cor', 'img/10 cor.png'), ('A', 'cor', 'img/A cor.png')]
+Arme descarte con estas cartas
+[('10', 'cor', 'img/10 cor.png')]
+Juega la casa, tomara una carta
+en sirve mesa reviso si esta carta me sirve
+('A', 'rom', 'img/azul.png', 'img/A rom.png')
+reviso si esta en falta_esca
+[['k', 'cor', 0, 12]]
+y mis posibles escaleras son
+[[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]]
+y simplificada es
+Tomo una carta del mazo, no me sirvio la de la mesa
+&&&&&&&&&Tomo esta carta del mazo&&&&&&
+('7', 'tre', 'img/rojo.png', 'img/7 tre.png')
+Entre a analizar juego con ('7', 'tre', 'img/rojo.png', 'img/7 tre.png')
+cartas casa en analizar juego [('q', 'cor', 'img/azul.png', 'img/q cor.png'), ('10', 'cor', 'img/azul.png', 'img/10 cor.png'), ('A', 'cor', 'img/rojo.png', 'img/A cor.png'), ('7', 'tre', 'img/rojo.png', 'img/7 tre.png')]
+en analizar juego, no baje con la carta, veo si me sirve
+************Veo si me sirve esta carta*******
+('7', 'tre', 'img/rojo.png', 'img/7 tre.png')
+en sirve mesa reviso si esta carta me sirve
+('7', 'tre', 'img/rojo.png', 'img/7 tre.png')
+reviso si esta en falta_esca
+[['k', 'cor', 0, 12]]
+y mis posibles escaleras son
+[[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]]
+y simplificada es
+la carta que robe no me sirve para bajar
+antes de revisar tengo esto
+posibles escaleras [[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]]
+posibles tricas []
+descarte [('10', 'cor', 'img/10 cor.png')]
+par esca con [('10', 'cor', 'img/10 cor.png')]
+Entre a par esca con ('7', 'tre', 'img/rojo.png', 'img/7 tre.png')
+descarte en par esca es 
+[('10', 'cor', 'img/10 cor.png')]
+en par esca decuelvo False
+Entre a par trica con ('7', 'tre', 'img/rojo.png', 'img/7 tre.png')
+descarte en par trica es 
+[('10', 'cor', 'img/10 cor.png')]
+en par trica devuelvo false
+par esca con set()
+Entre a par esca con ('7', 'tre', 'img/rojo.png', 'img/7 tre.png')
+descarte en par esca es 
+[('10', 'cor', 'img/10 cor.png')]
+Descarto la carta que acabo de tomar
+('7', 'tre', 'img/rojo.png', 'img/7 tre.png')
+Cartas casa es
+[('q', 'cor', 'img/azul.png', 'img/q cor.png'), ('10', 'cor', 'img/azul.png', 'img/10 cor.png'), ('A', 'cor', 'img/rojo.png', 'img/A cor.png')]
+Al salir de botar simplificada es 
+[('q', 'cor', 'img/q cor.png'), ('10', 'cor', 'img/10 cor.png'), ('A', 'cor', 'img/A cor.png')]
+en cambiar estado
+sali de tomar carta y tire
+Ronda10
+ya tomo es False
+robo es False
+Jugador toma carta del mazo
+('10', 'rom', 'img/azul.png', 'img/10 rom.png')
+Cartas jug es
+[('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('5', 'cor', 'img/azul.png', 'img/5 cor.png'), ('5', 'rom', 'img/rojo.png', 'img/5 rom.png'), ('7', 'cor', 'img/azul.png', 'img/7 cor.png'), ('6', 'rom', 'img/rojo.png', 'img/6 rom.png'), ('10', 'rom', 'img/azul.png', 'img/10 rom.png')]
+la carta que tome es ('10', 'rom', 'img/azul.png', 'img/10 rom.png')
+len es10
+robo es False
+bajo es False
+ya_tomo es True
+abtes de tirar cartas jug es
+[('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('5', 'cor', 'img/azul.png', 'img/5 cor.png'), ('5', 'rom', 'img/rojo.png', 'img/5 rom.png'), ('7', 'cor', 'img/azul.png', 'img/7 cor.png'), ('6', 'rom', 'img/rojo.png', 'img/6 rom.png'), ('10', 'rom', 'img/azul.png', 'img/10 rom.png')]
+Jugador tira la carta
+carta_jug es 9
+Cartas jugador luego de tirar es
+[('q', 'bas', 'img/rojo.png', 'img/q bas.png'), ('8', 'cor', 'img/azul.png', 'img/8 cor.png'), ('9', 'bas', 'img/rojo.png', 'img/9 bas.png'), ('7', 'rom', 'img/rojo.png', 'img/7 rom.png'), ('q', 'tre', 'img/azul.png', 'img/q tre.png'), ('5', 'cor', 'img/azul.png', 'img/5 cor.png'), ('5', 'rom', 'img/rojo.png', 'img/5 rom.png'), ('7', 'cor', 'img/azul.png', 'img/7 cor.png'), ('6', 'rom', 'img/rojo.png', 'img/6 rom.png')]
+len cartas jug es 9
+en cambiar estado
+En armar juego simplificada es 
+[]
+******en posibles_escalesas simplificada es
+[('q', 'cor', 'img/q cor.png'), ('10', 'cor', 'img/10 cor.png'), ('A', 'cor', 'img/A cor.png')]
+En armar juego escaleras  es
+[]
+En armar juego posibles_esca  es
+[[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]]
+en es corrida lista es
+[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]
+en Armar Juego Cartas Faltantes para escaleras es
+[['k', 'cor', 0, 12]]
+En armar juego Posibles Tricas es
+[]
+En armar juego Tricas es
+[]
+simplificada despues de armar juego
+[('q', 'cor', 'img/q cor.png'), ('10', 'cor', 'img/10 cor.png'), ('A', 'cor', 'img/A cor.png')]
+Arme descarte con estas cartas
+[('10', 'cor', 'img/10 cor.png')]
+Juega la casa, tomara una carta
+en sirve mesa reviso si esta carta me sirve
+('10', 'rom', 'img/azul.png', 'img/10 rom.png')
+reviso si esta en falta_esca
+[['k', 'cor', 0, 12]]
+y mis posibles escaleras son
+[[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]]
+y simplificada es
+Tomo una carta del mazo, no me sirvio la de la mesa
+&&&&&&&&&Tomo esta carta del mazo&&&&&&
+('Joker', '', 'img/rojo.png', 'img/joker.png')
+Entre a analizar juego con ('Joker', '', 'img/rojo.png', 'img/joker.png')
+cartas casa en analizar juego [('q', 'cor', 'img/azul.png', 'img/q cor.png'), ('10', 'cor', 'img/azul.png', 'img/10 cor.png'), ('A', 'cor', 'img/rojo.png', 'img/A cor.png'), ('Joker', '', 'img/rojo.png', 'img/joker.png')]
+en analizar juego, no baje con la carta, veo si me sirve
+************Veo si me sirve esta carta*******
+('Joker', '', 'img/rojo.png', 'img/joker.png')
+La carta es joker
+posibles esca es [[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]]
+tengo escalera y la bajo con el joker q me toco
+en else, bajare esta escalera
+0
+con que carta es
+('Joker', '', 'img/rojo.png', 'img/joker.png')
+min es 11
+agrego a escale un joker
+('Joker', '', 'img/rojo.png', 'img/joker.png')
+escale es
+[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13], ('Joker', '', 'img/rojo.png', 'img/joker.png')]
+la carta es simplificada [('q', 'cor', 'img/q cor.png'), 11]
+la carta es simplificada [('A', 'cor', 'img/A cor.png'), 13]
+La carta es completa ('Joker', '', 'img/rojo.png', 'img/joker.png')
+en pintar esca llrga esta lista[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13], ('Joker', '', 'img/rojo.png', 'img/joker.png')]
+lista en ordenar
+[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13], ('Joker', '', 'img/rojo.png', 'img/joker.png')]
+en ordenar elimino joker rojo
+en es corrida lista es
+[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]
+en pintar esca con escalera ordenada[[('q', 'cor', 'img/q cor.png'), 11], [('Joker', '', 'img/rojo.png', 'img/joker.png'), 12], [('A', 'cor', 'img/A cor.png'), 13]]
+al salir de pintar la escalera ordenada es[[('q', 'cor', 'img/q cor.png'), 11], [('Joker', '', 'img/rojo.png', 'img/joker.png'), 12], [('A', 'cor', 'img/A cor.png'), 13]]
+**********cartas luego de bajar la escalera con ;a carta que tome*********
+[('10', 'cor', 'img/azul.png', 'img/10 cor.png')]
+En armar juego simplificada es 
+[]
+******en posibles_escalesas simplificada es
+[('10', 'cor', 'img/10 cor.png')]
+En armar juego escaleras  es
+[]
+En armar juego posibles_esca  es
+[]
+en Armar Juego Cartas Faltantes para escaleras es
+[]
+En armar juego Posibles Tricas es
+[]
+En armar juego Tricas es
+[]
+simplificada despues de armar juego
+[('10', 'cor', 'img/10 cor.png')]
+Arme descarte con estas cartas
+[('10', 'cor', 'img/10 cor.png')]
+len descarte pri es []
+descarto esta carta de cartas_casa
+('10', 'cor', 'img/10 cor.png')
+Cartas casa es luego de descartar
+[]
+Al salir de botar simplificada es 
+[('10', 'cor', 'img/10 cor.png')]
+sali de tomar carta y tire

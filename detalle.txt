@@ -1,0 +1,138 @@
+En revisar faltantes de_donde es
+[[[('A', 'tre', 'img/A tre.png'), 0], [('2', 'tre', 'img/2 tre.png'), 1]]]
+e es [[('A', 'tre', 'img/A tre.png'), 0], [('2', 'tre', 'img/2 tre.png'), 1]]
+min es 0
+max es 1
+a es corrida va con  [[('A', 'tre', 'img/A tre.png'), 0], [('2', 'tre', 'img/2 tre.png'), 1]]
+es corrida
+falta 1 es ['3', 'tre', 0, 2]
+falta_esca es lego del append 1[['3', 'tre', 0, 2]]
+falta_esca es [['3', 'tre', 0, 2]]
+En revisar faltantes de_donde es
+[[[('A', 'tre', 'img/A tre.png'), 0], [('2', 'tre', 'img/2 tre.png'), 1]]]
+e es [[('A', 'tre', 'img/A tre.png'), 0], [('2', 'tre', 'img/2 tre.png'), 1]]
+min es 0
+max es 1
+a es corrida va con  [[('A', 'tre', 'img/A tre.png'), 0], [('2', 'tre', 'img/2 tre.png'), 1]]
+es corrida
+falta 1 es ['3', 'tre', 0, 2]
+falta_esca es lego del append 1[['3', 'tre', 0, 2]]
+falta_esca es [['3', 'tre', 0, 2]]
+En revisar faltantes de_donde es
+[[[('A', 'tre', 'img/A tre.png'), 0], [('2', 'tre', 'img/2 tre.png'), 1]]]
+e es [[('A', 'tre', 'img/A tre.png'), 0], [('2', 'tre', 'img/2 tre.png'), 1]]
+min es 0
+max es 1
+a es corrida va con  [[('A', 'tre', 'img/A tre.png'), 0], [('2', 'tre', 'img/2 tre.png'), 1]]
+es corrida
+falta 1 es ['3', 'tre', 0, 2]
+falta_esca es lego del append 1[['3', 'tre', 0, 2]]
+falta_esca es [['3', 'tre', 0, 2]]
+En revisar faltantes de_donde es
+[[[('10', 'cor', 'img/10 cor.png'), 9], [('q', 'cor', 'img/q cor.png'), 11]], [[('A', 'tre', 'img/A tre.png'), 0], [('2', 'tre', 'img/2 tre.png'), 1]]]
+e es [[('10', 'cor', 'img/10 cor.png'), 9], [('q', 'cor', 'img/q cor.png'), 11]]
+min es 9
+max es 11
+a es corrida va con  [[('10', 'cor', 'img/10 cor.png'), 9], [('q', 'cor', 'img/q cor.png'), 11]]
+falta la carta del medio
+falta 1 es ['j', 'cor', 0, 10]
+falta_esca es lego del append 1[['j', 'cor', 0, 10]]
+falta_esca es [['j', 'cor', 0, 10]]
+e es [[('A', 'tre', 'img/A tre.png'), 0], [('2', 'tre', 'img/2 tre.png'), 1]]
+min es 0
+max es 1
+a es corrida va con  [[('A', 'tre', 'img/A tre.png'), 0], [('2', 'tre', 'img/2 tre.png'), 1]]
+es corrida
+falta 1 es ['3', 'tre', 1, 2]
+falta_esca es lego del append 1[['j', 'cor', 0, 10], ['3', 'tre', 1, 2]]
+falta_esca es [['j', 'cor', 0, 10], ['3', 'tre', 1, 2]]
+En revisar faltantes de_donde es
+[[[('10', 'cor', 'img/10 cor.png'), 9], [('q', 'cor', 'img/q cor.png'), 11]], [[('A', 'tre', 'img/A tre.png'), 0], [('2', 'tre', 'img/2 tre.png'), 1]]]
+e es [[('10', 'cor', 'img/10 cor.png'), 9], [('q', 'cor', 'img/q cor.png'), 11]]
+min es 9
+max es 11
+a es corrida va con  [[('10', 'cor', 'img/10 cor.png'), 9], [('q', 'cor', 'img/q cor.png'), 11]]
+falta la carta del medio
+falta 1 es ['j', 'cor', 0, 10]
+falta_esca es lego del append 1[['j', 'cor', 0, 10]]
+falta_esca es [['j', 'cor', 0, 10]]
+e es [[('A', 'tre', 'img/A tre.png'), 0], [('2', 'tre', 'img/2 tre.png'), 1]]
+min es 0
+max es 1
+a es corrida va con  [[('A', 'tre', 'img/A tre.png'), 0], [('2', 'tre', 'img/2 tre.png'), 1]]
+es corrida
+falta 1 es ['3', 'tre', 1, 2]
+falta_esca es lego del append 1[['j', 'cor', 0, 10], ['3', 'tre', 1, 2]]
+falta_esca es [['j', 'cor', 0, 10], ['3', 'tre', 1, 2]]
+En revisar faltantes de_donde es
+[[[('10', 'cor', 'img/10 cor.png'), 9], [('q', 'cor', 'img/q cor.png'), 11]]]
+e es [[('10', 'cor', 'img/10 cor.png'), 9], [('q', 'cor', 'img/q cor.png'), 11]]
+min es 9
+max es 11
+a es corrida va con  [[('10', 'cor', 'img/10 cor.png'), 9], [('q', 'cor', 'img/q cor.png'), 11]]
+falta la carta del medio
+falta 1 es ['j', 'cor', 0, 10]
+falta_esca es lego del append 1[['j', 'cor', 0, 10]]
+falta_esca es [['j', 'cor', 0, 10]]
+En revisar faltantes de_donde es
+[[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]]
+e es [[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]
+min es 11
+max es 0
+a es corrida va con  [[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]
+falta la carta del medio
+falta 1 es ['k', 'cor', 0, 12]
+falta_esca es lego del append 1[['k', 'cor', 0, 12]]
+falta_esca es [['k', 'cor', 0, 12]]
+En revisar faltantes de_donde es
+[[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]]
+e es [[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]
+min es 11
+max es 0
+a es corrida va con  [[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]
+falta la carta del medio
+falta 1 es ['k', 'cor', 0, 12]
+falta_esca es lego del append 1[['k', 'cor', 0, 12]]
+falta_esca es [['k', 'cor', 0, 12]]
+En revisar faltantes de_donde es
+[[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]]
+e es [[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]
+min es 11
+max es 0
+a es corrida va con  [[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]
+falta la carta del medio
+falta 1 es ['k', 'cor', 0, 12]
+falta_esca es lego del append 1[['k', 'cor', 0, 12]]
+falta_esca es [['k', 'cor', 0, 12]]
+En revisar faltantes de_donde es
+[[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]]
+e es [[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]
+min es 11
+max es 0
+a es corrida va con  [[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]
+falta la carta del medio
+falta 1 es ['k', 'cor', 0, 12]
+falta_esca es lego del append 1[['k', 'cor', 0, 12]]
+falta_esca es [['k', 'cor', 0, 12]]
+En revisar faltantes de_donde es
+[[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]]
+e es [[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]
+min es 11
+max es 0
+a es corrida va con  [[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]
+falta la carta del medio
+falta 1 es ['k', 'cor', 0, 12]
+falta_esca es lego del append 1[['k', 'cor', 0, 12]]
+falta_esca es [['k', 'cor', 0, 12]]
+En revisar faltantes de_donde es
+[[[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]]
+e es [[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]
+min es 11
+max es 0
+a es corrida va con  [[('q', 'cor', 'img/q cor.png'), 11], [('A', 'cor', 'img/A cor.png'), 13]]
+falta la carta del medio
+falta 1 es ['k', 'cor', 0, 12]
+falta_esca es lego del append 1[['k', 'cor', 0, 12]]
+falta_esca es [['k', 'cor', 0, 12]]
+En revisar faltantes de_donde es
+[]
